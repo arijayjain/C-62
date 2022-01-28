@@ -1,0 +1,49 @@
+body
+{
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+.berner
+{
+    border-radius:50%;
+    width: 300px;
+}
+#welcome
+{
+    position:absolute;
+    bottom:0;
+    background:linear-gradient(#34ebb4 0%,#baeb34 100%);
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+h1
+{
+    font-size: 40px;
+    font-weight: 300;
+    font-family: sans-serif;
+}
+#name
+{
+    font-size: 50px;
+    font-family: cursive;
+}
+h2
+{
+    font-size: 30px;
+    font-weight: 300;
+    font-family: monospace;
+}
+.line
+{
+    height:6;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+.parallax-inner
+{
+    display: table-cell;
+    vertical-align: middle;
+}
